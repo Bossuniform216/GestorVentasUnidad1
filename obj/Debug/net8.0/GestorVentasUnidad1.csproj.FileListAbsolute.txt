@@ -1,0 +1,14 @@
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\bin\Debug\net8.0\GestorVentasUnidad1.exe
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\bin\Debug\net8.0\GestorVentasUnidad1.deps.json
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\bin\Debug\net8.0\GestorVentasUnidad1.runtimeconfig.json
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\bin\Debug\net8.0\GestorVentasUnidad1.dll
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\bin\Debug\net8.0\GestorVentasUnidad1.pdb
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\GestorVentasUnidad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\GestorVentasUnidad1.AssemblyInfoInputs.cache
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\GestorVentasUnidad1.AssemblyInfo.cs
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\GestorVentasUnidad1.csproj.CoreCompileInputs.cache
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\GestorVentasUnidad1.dll
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\refint\GestorVentasUnidad1.dll
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\GestorVentasUnidad1.pdb
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\GestorVentasUnidad1.genruntimeconfig.cache
+C:\Users\LOLA\OneDrive\Desktop\PARCIAL\GestorVentasUnidad1\obj\Debug\net8.0\ref\GestorVentasUnidad1.dll
