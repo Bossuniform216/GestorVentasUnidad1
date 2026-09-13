@@ -74,7 +74,7 @@ El programa cuenta con las siguientes opciones:
 
 ## Autor
 
-**Nombre:** [Escribe aquí tu nombre completo]
+**Nombre:** [Cristian Camilo Mena Alvarez]
 
 ## Proyecto académico
 
